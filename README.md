@@ -1,6 +1,7 @@
 # Evaluacion De Expresiones
 Sin usar el computador, evalúe las siguientes expresiones, y para cada una de ellas indique el resultado y su tipo (si la expresión es válida) o qué error ocurre (si no lo es):
-´´´
+
+```
 2 + 3      # Respuesta: tipo int, valor 5
 4 / 0      # Respuesta: error de división por cero
 5 + 3 * 2
@@ -16,5 +17,8 @@ float(-int('5') + int('10'))
 abs(len('ocho') - len('cinco'))
 bool(14) or bool(-20)
 float(str(int('5' * 4) / 3)[2])
-´´´
+```
+
 Compruebe sus respuestas en el computador
+
+
