@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "evaluacion-de-expresiones/1.0.0": {
+        "runtime": {
+          "evaluacion-de-expresiones.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "evaluacion-de-expresiones/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

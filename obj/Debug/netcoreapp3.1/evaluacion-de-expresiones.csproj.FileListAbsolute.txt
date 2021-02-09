@@ -1,0 +1,13 @@
+E:\work\repos\evaluacion-de-expresiones\obj\Debug\netcoreapp3.1\evaluacion-de-expresiones.csprojAssemblyReference.cache
+E:\work\repos\evaluacion-de-expresiones\obj\Debug\netcoreapp3.1\evaluacion-de-expresiones.AssemblyInfoInputs.cache
+E:\work\repos\evaluacion-de-expresiones\obj\Debug\netcoreapp3.1\evaluacion-de-expresiones.AssemblyInfo.cs
+E:\work\repos\evaluacion-de-expresiones\obj\Debug\netcoreapp3.1\evaluacion-de-expresiones.csproj.CoreCompileInputs.cache
+E:\work\repos\evaluacion-de-expresiones\bin\Debug\netcoreapp3.1\evaluacion-de-expresiones.exe
+E:\work\repos\evaluacion-de-expresiones\bin\Debug\netcoreapp3.1\evaluacion-de-expresiones.deps.json
+E:\work\repos\evaluacion-de-expresiones\bin\Debug\netcoreapp3.1\evaluacion-de-expresiones.runtimeconfig.json
+E:\work\repos\evaluacion-de-expresiones\bin\Debug\netcoreapp3.1\evaluacion-de-expresiones.runtimeconfig.dev.json
+E:\work\repos\evaluacion-de-expresiones\bin\Debug\netcoreapp3.1\evaluacion-de-expresiones.dll
+E:\work\repos\evaluacion-de-expresiones\bin\Debug\netcoreapp3.1\evaluacion-de-expresiones.pdb
+E:\work\repos\evaluacion-de-expresiones\obj\Debug\netcoreapp3.1\evaluacion-de-expresiones.dll
+E:\work\repos\evaluacion-de-expresiones\obj\Debug\netcoreapp3.1\evaluacion-de-expresiones.pdb
+E:\work\repos\evaluacion-de-expresiones\obj\Debug\netcoreapp3.1\evaluacion-de-expresiones.genruntimeconfig.cache
